@@ -1,0 +1,15 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Complejidad de los algoritmos}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Algoritmo 1:}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Algoritmo 2:}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Algoritmo 3:}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Algoritmo 4:}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Algoritmo 5:}{3}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Algoritmo 9:}{3}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Algoritmo 10:}{4}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Algoritmo 11:}{4}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}Algoritmo 12:}{5}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}Algoritmo 13:}{5}{subsection.1.10}
+\contentsline {subsection}{\numberline {1.11}Algoritmo 14}{6}{subsection.1.11}
+\contentsline {subsection}{\numberline {1.12}Algoritmo 15:}{6}{subsection.1.12}
+\contentsline {section}{\numberline {2}Peque\IeC {\~n}a Gran Conclusi\IeC {\'o}n}{7}{section.2}
