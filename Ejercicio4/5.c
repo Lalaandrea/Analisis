@@ -1,0 +1,9 @@
+MergeSort(a,p,r){
+	if(p<r)
+	{
+		q=parteEntera((p+r)/2);
+		MergeSort(a,p,q);
+		MergeSort(a,q+1,r);
+		Merge(a,p,q,r);
+	}
+}
